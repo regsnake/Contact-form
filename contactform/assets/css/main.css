@@ -1,0 +1,178 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  background-color: #000000;
+}
+img{
+  border-radius: 50%;
+  width:150px;
+  height: 150px;
+}
+li{
+  list-style-type: none;
+  display: inline-block;
+}
+#cont{
+  width: 70%;
+  border: 25px solid #000000;
+  margin: 0px auto;
+  margin-top: 50px;
+  background-color: #ffffff;
+}
+#girl {
+  float: right;
+  padding-left: 10%;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+#girl i{
+  width: 34px;
+  height: 33px;
+  margin: 12px 0px 12px 0px;
+  border-radius: 5px;
+  line-height: 30px;
+  padding-top: 2px;
+  font-size: 20px;
+
+}
+.fa-facebook-square{
+  background-color:#3b5a9b;
+  color: #ffffff;
+  text-align: center;
+} .fa-google-plus{
+  background-color:#f73c25;
+  color: #ffffff;
+  text-align: center;
+}
+.fa-instagram{
+  background-color:#5386bf;
+  color: #ffffff;
+  text-align: center;
+}
+ .fa-pinterest-square{
+  background-color:#c72125;
+  color: #ffffff;
+  text-align: center;
+}
+ .fa-twitter-square{
+  background-color:#2baae1;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+}
+hr{
+  color: #cf8b06;
+}
+
+.pip h3{
+float: left;
+color: #d08a06;
+padding: 10px;
+}
+.pip p{
+  margin-left: 180px;
+  padding-top: 25px;
+}
+.pip{
+  border-bottom: 2px solid #dedede;
+  width:90%;
+  margin: 0px auto;
+}
+.pap h3{
+  float: left;
+  color: #d08a06;
+  padding: 10px;
+
+}
+.pap p{
+  margin-left: 180px;
+  padding-top: 30px;
+}
+.pap{
+  border-bottom: 2px solid #dedede;
+  width: 90%;
+  margin: 0px auto;
+}
+.one{
+  float: left;
+  width: 20%;
+  padding-right: 10%;
+  list-style-type: none;
+
+}
+.two{
+  float: left;
+  width: 15%;
+  padding-right: 10%;
+}
+.three{
+  width: 30%;
+  float:left; 
+
+}
+#skills {
+  margin-left: 135px;
+  padding: 5px;
+}
+.skills-bar{
+  width: 100%;
+  height: 20px;
+  background-color:#d08a06;
+}
+#all{
+  width: 90%;
+  margin: 0px auto;
+}
+#all  h3{
+float: left;
+color: #d08a06;
+padding: 10px;
+}
+
+.html{
+   width: 60%;
+   height: 20px;
+   background-color: #500000;
+}
+.php{ width: 40%;
+   height: 20px;
+   background-color:#500000;
+
+}
+.css{
+  width:55%;
+  height: 20px;
+  background-color: #500000;
+}
+.graphic{
+  width: 70%;
+  height: 20px;
+  background-color: #500000;
+}
+.tan h3{
+  float: left;
+  color: #d08a06;
+  padding: 10px; 
+}
+.tan p{
+  margin-left: 180px;
+  padding-top: 30px;
+}
+.tan {
+  border-bottom: 2px solid #dedede;
+
+}
+.tin h3{
+float: left;
+color: #d08a06;
+}
+.tin p{
+  margin-left: 140px;
+  padding-top: 15px;
+}
+.tin{
+  border-bottom: 2px solid #dedede;
+  width:90%;
+  margin: 0px auto;
+}
+ 
+
